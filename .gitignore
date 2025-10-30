@@ -1,0 +1,14 @@
+# Ignore local databases and caches
+pulse_presets.db
+*.sqlite
+*.sqlite3
+
+# Python caches
+__pycache__/
+*.py[cod]
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
+
